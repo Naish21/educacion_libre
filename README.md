@@ -170,40 +170,28 @@ El software libre y los Recursos Educativos Abiertos (REA) transforman la educac
 
 # 5. Hacia una Educación Libre: Pasos y Compromisos
 
-Adoptar software libre y Recursos Educativos Abiertos (REA) requiere pasos claros y un esfuerzo colectivo. A continuación, se proponen acciones prácticas, con ejemplos, desafíos a superar y los beneficios que pueden lograrse, para construir una educación más abierta y equitativa.
+La transición hacia una educación basada en software libre y Recursos Educativos Abiertos (REA) implica un esfuerzo consciente para transformar las prácticas actuales en las aulas y las instituciones. No se trata solo de adoptar herramientas tecnológicas, sino de construir un modelo educativo que priorice la autonomía, la colaboración y el acceso universal al conocimiento. Este cambio requiere formación, infraestructura adecuada, creación colectiva de recursos, apoyo institucional y un sentido de comunidad que trascienda las barreras geográficas y económicas. A continuación, se describen los compromisos fundamentales para avanzar en esta dirección, integrando soluciones prácticas como el uso de tecnologías accesibles y personalizables.
 
 ## 5.1. Capacitación para docentes y estudiantes
 
-* Acción con ejemplo: Organizar talleres sobre Linux Mint (un sistema sencillo y gratuito) o LibreOffice, como hace la comunidad de Software Libre en Uruguay con cursos para maestros rurales.
-* Desafío: La resistencia inicial al cambio, por falta de familiaridad o miedo a lo técnico.
-* Beneficio: Docentes y estudiantes ganan confianza y habilidades digitales útiles más allá del aula, como editar documentos o gestionar proyectos.
+Formar a quienes usan y enseñan con estas herramientas es esencial. Esto incluye aprender a manejar sistemas operativos libres y programas abiertos, así como entender cómo adaptar los REA a diferentes contextos educativos, fomentando una adopción natural y efectiva.
 
 ## 5.2. Infraestructura accesible
 
-* Acción con ejemplo: Reutilizar computadoras viejas con Puppy Linux (ligero y eficiente), como en escuelas de India que revitalizan equipos donados.
-* Desafío: Convencer a administradores de que no siempre se necesita hardware nuevo, y garantizar soporte técnico local.
-* Beneficio: Ahorro de miles de euros en equipos y acceso tecnológico para comunidades marginadas.
+Garantizar que las tecnologías abiertas sean utilizables en diversos entornos es clave. Esto significa aprovechar equipos existentes y diseñar soluciones que funcionen incluso sin conexión constante, asegurando que nadie quede excluido por limitaciones materiales.
 
 ## 5.3. Creación y mejora de recursos
 
-* Acción con ejemplo: Profesores colaborando en plataformas como OpenStax o Wikibooks para crear libros digitales de matemáticas, como en Brasil con textos adaptados al portugués.
-* Desafío: Requiere tiempo y coordinación entre docentes, además de superar la falta de incentivos iniciales.
-* Beneficio: Recursos gratuitos y actualizados que reflejan las necesidades reales de los estudiantes, ahorrando costos en libros tradicionales.
+Promover la participación activa en la elaboración de materiales educativos fortalece el sistema. Docentes y estudiantes pueden colaborar para producir y actualizar contenidos que respondan a las necesidades reales, enriqueciendo el aprendizaje colectivo.
 
 ## 5.4. Apoyo institucional y político
 
-* Acción con ejemplo: Implementar políticas como las de Extremadura (España), donde el gobierno distribuyó Linex (un Linux educativo) a todas las escuelas públicas.
-* Desafío: La burocracia y el lobby de empresas propietarias que buscan mantener su influencia.
-* Beneficio: Una red educativa pública más barata, segura y alineada con los valores de equidad y transparencia.
+Las instituciones educativas y los gobiernos tienen un papel crucial. Establecer políticas que prioricen lo abierto, junto con recursos y guías claras, facilita que estas soluciones se integren de manera sostenible en el sistema educativo.
 
 ## 5.5. Cultura de comunidad
 
-* Acción con ejemplo: Celebrar “Días de Software Libre” como en México, con estudiantes y docentes mostrando proyectos hechos con GIMP o Scratch.
-* Desafío: Lograr participación activa y superar la idea de que lo gratuito es de menor calidad.
-* Beneficio: Una comunidad unida que comparte soluciones y crece junta, inspirando a otros a sumarse al movimiento.
+Fomentar una red de colaboración entre usuarios de software libre y REA crea un entorno de apoyo mutuo. Esta comunidad, local y global, impulsa el intercambio de ideas y experiencias, consolidando la educación libre como un movimiento vivo.
 
-## 5.6. Tablets con Raspberry Pi y Raspbian
+## 5.6. Tecnologías personalizables como alternativa
 
-* Acción con ejemplo: En clases de tecnología, estudiantes podrían montar tablets usando Raspberry Pi (una computadora pequeña y económica) con Raspbian (su sistema operativo libre), como alternativa a Chromebooks, iPads o tablets Android. Proyectos como “Pi-Top” ya ofrecen kits similares usados en escuelas de Reino Unido.
-* Desafío: Requiere conocimientos básicos de ensamblaje y tiempo para talleres, además de superar la percepción de que es menos “moderno” que dispositivos comerciales.
-* Beneficio: Los alumnos aprenden sobre hardware (procesadores, pantallas) y software (configurar Raspbian), ganando habilidades prácticas mientras usan un dispositivo propio, barato y personalizable.
+Incorporar dispositivos construidos con hardware y software abiertos, como tabletas basadas en sistemas accesibles, permite a los estudiantes explorar la tecnología desde su núcleo. Esto no solo reemplaza opciones proprietarias, sino que convierte el aprendizaje en una experiencia práctica y creativa.
