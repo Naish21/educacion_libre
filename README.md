@@ -1,7 +1,6 @@
-# Esquema del Paper
-
 "La Importancia del Software Libre y los Recursos Educativos Abiertos en la Educación"
 
+# Esquema del Paper
 
 1. Resumen Ejecutivo
 * **Breve descripción del tema:** La relevancia de las plataformas tecnológicas y los recursos educativos en la educación moderna.
