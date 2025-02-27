@@ -136,34 +136,34 @@ En resumen, aunque el software privativo domina el estado actual de las platafor
 
 # 4. Ventajas del Software Libre y los Recursos Educativos Abiertos en la Educación
 
-El uso de software libre y de Recursos Educativos Abiertos (REA) en la educación no solo representa una alternativa técnica o económica, sino un cambio de paradigma que empodera a estudiantes, educadores e instituciones. A continuación, se detallan las principales ventajas que justifican su adopción como pilares de una educación libre y equitativa.
+El software libre y los Recursos Educativos Abiertos (REA) transforman la educación al hacerla más accesible, flexible y justa. Estas herramientas no solo reducen costos, sino que empoderan a estudiantes, docentes e instituciones para aprender, crear y colaborar sin barreras. A continuación, exploramos sus beneficios clave.
 
-## 4.1. Independencia tecnológica
-  
-* **Evitar la dependencia de ecosistemas cerrados tanto en software como en materiales educativos**: Los sistemas propietarios suelen atar a los usuarios a plataformas específicas, limitando su autonomía y generando una relación de dependencia con grandes corporaciones. El software libre y los REA rompen estas cadenas al ofrecer herramientas y contenidos que no están controlados por intereses comerciales, permitiendo a las instituciones educativas mantener el control sobre su infraestructura y recursos.
-* **Fomentar la libertad de elección y adaptación a las necesidades locales**: Cada comunidad educativa tiene particularidades culturales, económicas y sociales. El software libre permite personalizar soluciones tecnológicas, mientras que los REA pueden adaptarse a idiomas, contextos y currículums específicos, garantizando una educación relevante y accesible sin imposiciones externas.
+## 4.1. Libertad e independencia
 
-## 4.2. Transparencia y seguridad
-  
-* **Código abierto como garantía de transparencia en software**: En un mundo donde la privacidad y la seguridad de los datos son esenciales, el software libre ofrece una ventaja clave: su código es accesible y puede ser auditado por cualquiera. Esto asegura que no haya puertas traseras, recolección indebida de datos ni vulnerabilidades ocultas, protegiendo tanto a estudiantes como a docentes.
-* **Licencias abiertas en REA para accesibilidad y adaptabilidad**: Los recursos educativos con licencias abiertas (como Creative Commons) permiten a los usuarios conocer exactamente qué pueden hacer con ellos: usarlos, modificarlos, compartirlos. Esta claridad fomenta su uso responsable y asegura que estén disponibles para todos, sin restricciones legales opacas.
+* Romper con ecosistemas cerrados: A diferencia de plataformas propietarias como las de Google, Microsoft o Apple, el software libre y los REA evitan que escuelas y estudiantes dependan de empresas que controlan datos y limitan opciones. Esto da autonomía para elegir y usar herramientas sin restricciones.
+* Adaptación a cada realidad: Se pueden personalizar según las necesidades locales, como idiomas o contextos culturales, asegurando una educación que responde a cada comunidad.
 
-## 4.3. Aprendizaje significativo
-  
-* **Posibilidad de modificar y comprender tanto el software como los materiales educativos**: El software libre invita a los estudiantes a explorar cómo funcionan las herramientas que utilizan, mientras que los REA les permiten analizar y ajustar contenidos a sus necesidades. Este enfoque práctico transforma a los usuarios en creadores activos, no solo en consumidores pasivos.
-* **Introducción a conceptos de programación, sistemas operativos y creación de contenido**: Al interactuar con herramientas abiertas, los estudiantes pueden aprender a programar, entender sistemas operativos como Linux o contribuir a proyectos educativos. Esto no solo enriquece su formación técnica, sino que también despierta su curiosidad y capacidad crítica hacia la tecnología y el conocimiento.
+## 4.2. Transparencia y protección
 
-## 4.4. Coste económico
-  
-* **Reducción de costos en licencias de software y adquisición de materiales educativos**: Las licencias de software propietario y los libros de texto tradicionales suelen ser prohibitivamente caros, especialmente en contextos de bajos recursos. El software libre elimina estos gastos al ser gratuito, y los REA ofrecen materiales de calidad sin costo alguno, democratizando el acceso a la educación.
-* **Acceso a herramientas y recursos gratuitos de alta calidad**: Desde sistemas operativos robustos hasta plataformas de aprendizaje en línea y bibliotecas digitales, el ecosistema abierto proporciona alternativas que rivalizan o superan a las comerciales, sin imponer barreras económicas.
+* Software seguro y claro: El código abierto permite revisar cómo funcionan las herramientas, garantizando que no haya riesgos ocultos ni recolección de datos indebida, algo esencial para proteger a estudiantes y docentes.
+* Recursos accesibles para todos: Las licencias abiertas de los REA aseguran que cualquiera pueda usar, modificar y compartir materiales educativos sin trabas legales ni costos.
 
-## 4.5. Preparación para el futuro
-  
-* **Software libre y REA como base de la tecnología y educación modernas**: La innovación tecnológica y educativa actual se apoya cada vez más en soluciones abiertas. Familiarizarse con estas herramientas prepara a los estudiantes para un mundo donde la colaboración y la flexibilidad son esenciales.
-* **Desarrollo de habilidades transferibles al ámbito laboral y académico**: Competencias como el pensamiento crítico, la resolución de problemas y el trabajo colaborativo, potenciadas por el uso de recursos abiertos, son altamente valoradas en cualquier carrera. Además, el dominio de tecnologías libres es una ventaja competitiva en sectores como la informática, la investigación y la educación.
+## 4.3. Aprendizaje activo
 
-## 4.6. Colaboración y comunidad
+* Explorar y crear: Los estudiantes no solo usan el software y los materiales, sino que pueden entenderlos y cambiarlos. Esto fomenta la curiosidad y habilidades prácticas, como programación o edición de contenidos.
+* Puente a la tecnología: Usar herramientas abiertas introduce conceptos de sistemas operativos (como Linux), diseño y colaboración, preparando a los estudiantes para un mundo digital.
 
-* **Fomento de la cooperación global**: El software libre y los REA trascienden fronteras al permitir que personas de todo el mundo contribuyan a su desarrollo. Proyectos como Wikipedia o distribuciones de software como Ubuntu son ejemplos de cómo la colaboración abierta genera recursos excepcionales que benefician a la educación universal.
-* **Creación de redes de aprendizaje**: Al participar en comunidades abiertas, los estudiantes y educadores no solo acceden a conocimientos, sino que también los enriquecen. Estas redes promueven el intercambio de ideas, la mejora continua de herramientas y la adaptación de contenidos a realidades locales, fortaleciendo el tejido social y educativo.
+## 4.4. Ahorro y equidad
+
+* Cero costos ocultos: Sin licencias caras de software ni libros de texto costosos, el software libre y los REA hacen la educación más asequible para escuelas y familias, especialmente en comunidades de bajos recursos.
+* Calidad sin barreras: Ofrecen acceso gratuito a recursos y herramientas de alto nivel, desde programas educativos hasta textos actualizados, nivelando el acceso al conocimiento.
+
+## 4.5. Habilidades para el futuro
+
+* Base de la tecnología actual: Desde servidores en la nube hasta innovaciones educativas, el software libre y los REA son el corazón de muchos avances modernos. Conocerlos da una ventaja real.
+* Competencias prácticas: Desarrollan habilidades como resolver problemas, trabajar en equipo y adaptarse a nuevas herramientas, útiles tanto en el trabajo como en la vida.
+
+## 4.6. Comunidad y colaboración
+
+* Unión global: Estas herramientas conectan a estudiantes y docentes de todo el mundo, quienes comparten ideas y mejoran recursos juntos, como en proyectos de código abierto o bibliotecas digitales.
+* Fuerza colectiva: Al contribuir a software o materiales abiertos, se crea una red de aprendizaje viva que crece con cada aportación, fortaleciendo la educación para todos.
