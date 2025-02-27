@@ -44,14 +44,13 @@
 
     4.6. [Comunidad y colaboración](#4_6_comunidad_y_colaboracion)
 
-5. Propuesta Práctica: Integración del Software Libre y los Recursos Educativos Abiertos en las Aulas
-
-* Creación de una tablet con hardware y software libres
-* Uso de sistemas operativos libres
-* Software abierto para el aula
-* Recursos Educativos Abiertos (REA)
-* Capacitación para docentes y estudiantes
-* Infraestructura accesible y apoyo institucional
+5. [Propuesta Práctica: Integración del Software Libre y los Recursos Educativos Abiertos en las Aulas](#5_propuesta_practica)
+* [Creación de una tablet con hardware y software libres](#5_1_creacion_de_una_tablet)
+* [Uso de sistemas operativos libres](#5_2_uso_de_sistemas_operativos_libres)
+* [Software abierto para el aula](#5_3_software_abierto_para_el_aula)
+* [Recursos Educativos Abiertos (REA)](#5_4_recursos_educativos_abiertos)
+* [Capacitación para docentes y estudiantes](#5_5_capacitacion_para_docentes_y_estudiantes)
+* [Infraestructura accesible y apoyo institucional](#5_6_infraestructura_accesible)
 
 6. [Impacto en la Formación de los Estudiantes](#6_impacto_en_la_formacion_de_los_estudiantes)
 * [Desarrollo de habilidades técnicas y críticas mediante el uso de software libre y REA.](#6_1_desarrollo_de_habilidades_tecnicas_y_criticas)
@@ -167,33 +166,41 @@ En un entorno donde la tecnología y el conocimiento evolucionan rápidamente, f
 
 El espíritu del software libre y los REA radica en compartir. Al conectar a personas de diferentes contextos en un esfuerzo colectivo por construir y mejorar el conocimiento, se crea una red de aprendizaje que trasciende fronteras, enriqueciendo la educación con perspectivas diversas y un sentido de pertenencia global.
 
+<a name="5_propuesta_practica"></a>
 # 5. Propuesta Práctica: Integración del Software Libre y los Recursos Educativos Abiertos en las Aulas
 
 La integración del software libre y los Recursos Educativos Abiertos (REA) en las aulas no es simplemente un ajuste técnico, sino una oportunidad para reimaginar cómo se vive la educación día a día. Este enfoque práctico busca traducir los principios de libertad, equidad y colaboración en acciones concretas que transformen el entorno de aprendizaje. Desde construir herramientas propias hasta adoptar sistemas y materiales que cualquiera puede usar y mejorar, el objetivo es claro: empoderar a estudiantes, docentes e instituciones para que tomen el control de su experiencia educativa. Lo que aquí se propone es un camino hacia una enseñanza más activa, accesible y alineada con las necesidades reales de quienes aprenden y enseñan, demostrando que lo abierto no solo es viable, sino profundamente transformador.
 
+<a name="5_1_creacion_de_una_tablet"></a>
 ## 5.1. Creación de una tablet con hardware y software libres
 
 Permitir que los estudiantes participen en la construcción de sus propias herramientas tecnológicas, como tabletas basadas en componentes accesibles y sistemas operativos abiertos, convierte la educación en un ejercicio de creación. Este proceso no solo les ofrece un dispositivo funcional, sino que los introduce al corazón de la tecnología, donde el hardware y el software se convierten en terrenos explorables, modificables y comprensibles, despertando un sentido de agencia sobre lo que usan.
 
+<a name="5_2_uso_de_sistemas_operativos_libres"></a>
 ## 5.2. Uso de sistemas operativos libres
 
 Abandonar las plataformas cerradas en favor de sistemas operativos abiertos significa dar un paso hacia la autonomía tecnológica en las aulas. Estas alternativas, diseñadas para ser ligeras y adaptables, ofrecen un entorno estable y seguro que no depende de licencias costosas ni de ecosistemas propietarios, permitiendo que el aprendizaje se desarrolle en un espacio donde la tecnología sirve a las personas, no al revés.
 
+<a name="5_3_software_abierto_para_el_aula"></a>
 ## 5.3. Software abierto para el aula
 
 La adopción de programas abiertos en el día a día educativo abre un abanico de posibilidades creativas y prácticas sin las restricciones de lo privativo. Herramientas que van desde la edición de textos hasta la creación multimedia están al alcance de todos, invitando a estudiantes y docentes a experimentar y personalizar su uso según las demandas del aprendizaje, en un entorno donde la innovación no está limitada por barreras económicas o legales.
 
+<a name="5_4_recursos_educativos_abiertos"></a>
 ## 5.4. Recursos Educativos Abiertos (REA)
 
 Incorporar materiales con licencias abiertas, como libros digitales o plataformas de gestión del aprendizaje, transforma la manera en que se accede y se comparte el conocimiento. Estos recursos, disponibles para ser usados y adaptados por cualquiera, fomentan una educación dinámica donde los contenidos no son un producto acabado, sino una base viva que evoluciona con las necesidades y aportes de la comunidad educativa.
 
+<a name="5_5_capacitacion_para_docentes_y_estudiantes"></a>
 ## 5.5. Capacitación para docentes y estudiantes
 
 Preparar a quienes enseñan y aprenden para que abracen estas herramientas es el cimiento de su éxito. Esta formación trasciende el simple manejo técnico: se trata de cultivar una mentalidad abierta que vea en el software libre y los REA no solo instrumentos, sino aliados en la construcción de un aprendizaje más participativo y significativo, donde todos tienen un rol activo.
 
+<a name="5_6_infraestructura_accesible"></a>
 ## 5.6. Infraestructura accesible y apoyo institucional
 
 Hacer que estas soluciones lleguen a todas las aulas requiere un compromiso con la accesibilidad y el respaldo de las instituciones. Aprovechar equipos existentes y garantizar un soporte estructural que priorice lo abierto asegura que ninguna comunidad quede rezagada, mientras las políticas educativas refuerzan este modelo como un pilar de equidad y sostenibilidad en el sistema.
+
 
 <a name="6_impacto_en_la_formacion_de_los_estudiantes"></a>
 # 6. Impacto en la Formación de los Estudiantes
@@ -220,6 +227,7 @@ El mundo actual valora cada vez más la flexibilidad y el dominio de tecnología
 
 Usar software libre y REA no solo enseña a los estudiantes cómo funciona la tecnología, sino también por qué importa su diseño y distribución. Este enfoque los sensibiliza sobre cuestiones éticas, como la privacidad y la equidad, y los inspira a defender una educación abierta como un derecho universal, no como un privilegio.
 
+
 <a name="7_retos_y_limitaciones"></a>
 # 7. Retos y Limitaciones
 
@@ -245,22 +253,23 @@ No todos los contextos cuentan con los recursos necesarios para implementar tecn
 
 Incorporar software libre y REA a estructuras ya establecidas no siempre es sencillo. La compatibilidad con currículums rígidos, evaluaciones estandarizadas o sistemas administrativos propietarios plantea tensiones que exigen flexibilidad y creatividad para alinear lo nuevo con lo que ya funciona, sin perder de vista el objetivo mayor.
 
+
 <a name="8_conclusion"></a>
-8. Conclusión
+# 8. Conclusión
 
 El recorrido de este manifiesto nos lleva a una certeza: el software libre y los Recursos Educativos Abiertos (REA) son mucho más que herramientas; son la base de una educación que aspira a la libertad, la justicia y la inclusión. A través de sus ventajas, su impacto en los estudiantes y los retos que enfrentan, se dibuja un horizonte donde el conocimiento no está limitado por intereses comerciales ni barreras económicas, sino que se expande como un bien compartido. Adoptar este enfoque no es solo una opción técnica, sino un acto de soberanía educativa que reclama el derecho de todos a aprender y crecer en igualdad. Este cierre no es un fin, sino una invitación a actuar con determinación para que la educación libre sea una realidad tangible.
 
 <a name="8_1_recapitulacion"></a>
-8.1. Recapitulación de los puntos clave
+## 8.1. Recapitulación de los puntos clave
 
 El software libre y los REA ofrecen independencia, transparencia y equidad, transformando la manera en que se accede y se construye el saber. Sus beneficios van desde empoderar a los estudiantes con habilidades críticas hasta conectar comunidades en un esfuerzo colectivo, demostrando que la apertura enriquece tanto el aprendizaje como la enseñanza.
 
 <a name="8_2_reafirmacion"></a>
-8.2. Reafirmación de la importancia
+## 8.2. Reafirmación de la importancia
 
 Optar por plataformas libres y recursos abiertos es afirmar que la educación debe ser soberana, libre de ataduras propietarias, y equitativa, accesible a todos sin distinción. Este compromiso no solo responde a necesidades prácticas, sino que defiende un principio ético fundamental: el conocimiento pertenece a la humanidad, no a unos pocos.
 
 <a name="8_3_llamada_a_la_accion"></a>
-8.3. Llamada a la acción
+## 8.3. Llamada a la acción
 
 Hacer realidad esta visión requiere voluntad y acción colectiva. Fomentar políticas educativas que prioricen el software libre y los REA es el paso necesario para que instituciones, gobiernos y comunidades se alineen en un esfuerzo común, construyendo un sistema educativo que refleje los valores de apertura y justicia que aquí se proclaman.
