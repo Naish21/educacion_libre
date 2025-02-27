@@ -1,4 +1,81 @@
-# Manifiesto para una educación libre
+# La Importancia del Software Libre y los Recursos Educativos Abiertos en la Educación
+---
+Esquema: 
+
+1. Resumen Ejecutivo
+- **Breve descripción del tema**: La relevancia de las plataformas tecnológicas y los recursos educativos en la educación moderna.
+- **Planteamiento del problema**: La dependencia de software privativo y materiales educativos cerrados en las escuelas, y sus implicaciones éticas, económicas y pedagógicas.
+- **Propuesta**: Uso de plataformas libres (GNU/Linux, software abierto) y Recursos Educativos Abiertos (REA), destacando su impacto positivo en la autonomía, accesibilidad y calidad educativa.
+- **Objetivos del paper**: Concienciar sobre la importancia del software libre y los REA en la educación, y proponer alternativas prácticas para su implementación.
+
+2. Introducción
+- **Contextualización**: El papel transformador de la tecnología y los recursos educativos en la educación actual.
+- **Problemática**: Cómo las grandes empresas tecnológicas (Google, Microsoft, Apple) y los editores de materiales cerrados fomentan la dependencia de sus ecosistemas, limitando la soberanía educativa.
+- **Justificación**: Razones para promover el uso de software libre y REA en las escuelas, incluyendo beneficios éticos, pedagógicos y económicos.
+- **Objetivos del documento**: Analizar las ventajas del software libre y los REA, y proponer estrategias para su integración efectiva en el ámbito educativo.
+
+3. Estado del Arte
+- **Análisis de las plataformas y recursos actuales**: Panorama de las herramientas tecnológicas y materiales educativos predominantes en la educación.
+- **Uso predominante de software privativo y materiales cerrados**: Ejemplos como Google Classroom, Microsoft Office 365, y libros de texto propietarios.
+- **Alternativas existentes**: Plataformas libres (GNU/Linux, Moodle) y REA (OER Commons, WikiEducator), con casos de adopción en centros educativos.
+- **Proyectos exitosos**: Mención de iniciativas como Raspberry Pi en escuelas, distribuciones Linux educativas, y repositorios de REA.
+
+4. Ventajas del Software Libre y los Recursos Educativos Abiertos en la Educación
+- **4.1. Independencia tecnológica**
+  - Evitar la dependencia de ecosistemas cerrados tanto en software como en materiales educativos.
+  - Fomentar la libertad de elección y adaptación a las necesidades locales.
+- **4.2. Transparencia y seguridad**
+  - Código abierto como garantía de transparencia en software.
+  - Licencias abiertas en REA para accesibilidad y adaptabilidad.
+- **4.3. Aprendizaje significativo**
+  - Posibilidad de modificar y comprender tanto el software como los materiales educativos.
+  - Introducción a conceptos de programación, sistemas operativos y creación de contenido.
+- **4.4. Coste económico**
+  - Reducción de costos en licencias de software y adquisición de materiales educativos.
+  - Acceso a herramientas y recursos gratuitos de alta calidad.
+- **4.5. Preparación para el futuro**
+  - Software libre y REA como base de la tecnología y educación modernas.
+  - Desarrollo de habilidades transferibles al ámbito laboral y académico.
+
+5. Propuesta Práctica: Integración del Software Libre y los Recursos Educativos Abiertos en las Aulas
+- **5.1. Creación de una tablet con Raspberry Pi**
+  - Proyecto práctico para estudiantes: ensamblar una tablet con componentes básicos.
+  - Introducción a hardware y software libres.
+- **5.2. Uso de sistemas operativos libres**
+  - Linux como alternativa a Windows y macOS.
+  - Distribuciones educativas como Edubuntu o Debian Edu.
+- **5.3. Software abierto para el aula**
+  - Alternativas a herramientas privativas: LibreOffice, GIMP, Blender, etc.
+- **5.4. Recursos Educativos Abiertos (REA)**
+  - Uso de libros de texto, sitios web y otros materiales con licencias abiertas (Creative Commons, etc.).
+  - Plataformas como Moodle para la gestión del aprendizaje y distribución de REA.
+
+6. Impacto en la Formación de los Estudiantes
+- Desarrollo de habilidades técnicas y críticas mediante el uso de software libre y REA.
+- Fomento de la creatividad, la colaboración y la resolución de problemas.
+- Preparación para un mercado laboral y académico basado en tecnologías y recursos abiertos.
+- Concienciación sobre la ética en la tecnología y la importancia de la apertura en la educación.
+
+7. Retos y Limitaciones
+- Resistencia al cambio por parte de instituciones y profesores ante el software libre y los REA.
+- Necesidad de formación docente en el uso y creación de software libre y REA.
+- Limitaciones técnicas en algunos entornos educativos.
+- Desafíos de integración con sistemas y prácticas educativas existentes.
+
+8. Conclusión
+- **Recapitulación de los puntos clave**: Ventajas del software libre y los REA en la educación.
+- **Reafirmación de la importancia**: Adoptar plataformas libres y recursos abiertos para una educación soberana y equitativa.
+- **Llamado a la acción**: Fomentar políticas educativas que prioricen el software libre y los REA.
+
+9. Referencias
+- Fuentes académicas, artículos, libros y recursos en línea que respalden los argumentos sobre software libre y REA.
+- Ejemplos: Proyectos de software libre, estudios sobre su impacto educativo, e iniciativas de REA como OER Commons.
+
+10. Anexos
+- Guía práctica para implementar software libre y REA en el aula.
+- Listado de herramientas libres y REA recomendados.
+- Ejemplos de proyectos educativos exitosos basados en software libre y REA.
+
 ---
 
 # Resumen Ejecutivo
