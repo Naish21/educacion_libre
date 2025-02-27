@@ -201,3 +201,9 @@ Adoptar software libre y Recursos Educativos Abiertos (REA) requiere pasos claro
 * Acción con ejemplo: Celebrar “Días de Software Libre” como en México, con estudiantes y docentes mostrando proyectos hechos con GIMP o Scratch.
 * Desafío: Lograr participación activa y superar la idea de que lo gratuito es de menor calidad.
 * Beneficio: Una comunidad unida que comparte soluciones y crece junta, inspirando a otros a sumarse al movimiento.
+
+## 5.6. Tablets con Raspberry Pi y Raspbian
+
+* Acción con ejemplo: En clases de tecnología, estudiantes podrían montar tablets usando Raspberry Pi (una computadora pequeña y económica) con Raspbian (su sistema operativo libre), como alternativa a Chromebooks, iPads o tablets Android. Proyectos como “Pi-Top” ya ofrecen kits similares usados en escuelas de Reino Unido.
+* Desafío: Requiere conocimientos básicos de ensamblaje y tiempo para talleres, además de superar la percepción de que es menos “moderno” que dispositivos comerciales.
+* Beneficio: Los alumnos aprenden sobre hardware (procesadores, pantallas) y software (configurar Raspbian), ganando habilidades prácticas mientras usan un dispositivo propio, barato y personalizable.
