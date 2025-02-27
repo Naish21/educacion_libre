@@ -1,6 +1,20 @@
 "La Importancia del Software Libre y los Recursos Educativos Abiertos en la Educación"
 
-# Esquema
+# Indice
+1. [Resumen y objetivos](#1_resumen_ejecutivo): Rol transformador de la tecnología, problema de dependencia en sistemas propietarios (Google, Microsoft, Apple) y propuesta de software libre y REA para autonomía, accesibilidad y calidad.
+2.  [Introducción](#2_introduccion): Importancia de la tecnología en educación, crítica a ecosistemas corporativos por limitar soberanía, y justificación del software libre por beneficios éticos, pedagógicos y económicos.
+3. [Estado del Arte](#3_estado_del_arte): Análisis de plataformas propietarias (Google Classroom, Microsoft Office 365) y contraste con alternativas libres como Moodle y GNU/Linux, con casos exitosos (proyecto Linex de Extremadura, Raspberry Pi, Sugar OS).
+4. [Ventajas](#4_ventajas_del_software_libre): Independencia, transparencia, aprendizaje activo, ahorro de costos, habilidades futuras y colaboración comunitaria.
+5. [Propuesta práctica](#5_propuesta_practica): Integrar software libre (crear tablets, usar OS abiertos), REA, capacitación docente e institucional para accesibilidad.
+6. [Impacto en estudiantes](#6_impacto_en_la_formacion_de_los_estudiantes): Mejora habilidades técnicas y críticas, fomenta creatividad y colaboración, prepara para mercados tecnológicos abiertos y conciencia ética.
+7. [Desafíos](#7_retos_y_limitaciones): Resistencia al cambio, necesidad de capacitación, limitaciones técnicas e integración con sistemas existentes.
+8. [Conclusión](#8_conclusion): Reafirma importancia del software libre y REA para educación soberana y equitativa, llamando a acción colectiva.
+9. [Referencias](#9_Referencias): Incluye recursos gubernamentales españoles, plataformas de escritura colaborativa y otros materiales, con URLs específicas (ver tabla en referencias).
+10. Anexos: Guía práctica para implementar software libre y REA en el aula. Listado de herramientas libres y REA recomendados. Ejemplos de proyectos educativos exitosos basados en software libre y REA.
+
+---
+
+# Esquema Resumen
 
 1. [Resumen Ejecutivo](#1_resumen_ejecutivo)
 * **Breve descripción del tema:** La relevancia de las plataformas tecnológicas y los recursos educativos en la educación moderna.
