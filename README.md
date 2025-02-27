@@ -167,3 +167,37 @@ El software libre y los Recursos Educativos Abiertos (REA) transforman la educac
 
 * Unión global: Estas herramientas conectan a estudiantes y docentes de todo el mundo, quienes comparten ideas y mejoran recursos juntos, como en proyectos de código abierto o bibliotecas digitales.
 * Fuerza colectiva: Al contribuir a software o materiales abiertos, se crea una red de aprendizaje viva que crece con cada aportación, fortaleciendo la educación para todos.
+
+# 5. Hacia una Educación Libre: Pasos y Compromisos
+
+Adoptar software libre y Recursos Educativos Abiertos (REA) requiere pasos claros y un esfuerzo colectivo. A continuación, se proponen acciones prácticas, con ejemplos, desafíos a superar y los beneficios que pueden lograrse, para construir una educación más abierta y equitativa.
+
+## 5.1. Capacitación para docentes y estudiantes
+
+* Acción con ejemplo: Organizar talleres sobre Linux Mint (un sistema sencillo y gratuito) o LibreOffice, como hace la comunidad de Software Libre en Uruguay con cursos para maestros rurales.
+* Desafío: La resistencia inicial al cambio, por falta de familiaridad o miedo a lo técnico.
+* Beneficio: Docentes y estudiantes ganan confianza y habilidades digitales útiles más allá del aula, como editar documentos o gestionar proyectos.
+
+## 5.2. Infraestructura accesible
+
+* Acción con ejemplo: Reutilizar computadoras viejas con Puppy Linux (ligero y eficiente), como en escuelas de India que revitalizan equipos donados.
+* Desafío: Convencer a administradores de que no siempre se necesita hardware nuevo, y garantizar soporte técnico local.
+* Beneficio: Ahorro de miles de euros en equipos y acceso tecnológico para comunidades marginadas.
+
+## 5.3. Creación y mejora de recursos
+
+* Acción con ejemplo: Profesores colaborando en plataformas como OpenStax o Wikibooks para crear libros digitales de matemáticas, como en Brasil con textos adaptados al portugués.
+* Desafío: Requiere tiempo y coordinación entre docentes, además de superar la falta de incentivos iniciales.
+* Beneficio: Recursos gratuitos y actualizados que reflejan las necesidades reales de los estudiantes, ahorrando costos en libros tradicionales.
+
+## 5.4. Apoyo institucional y político
+
+* Acción con ejemplo: Implementar políticas como las de Extremadura (España), donde el gobierno distribuyó Linex (un Linux educativo) a todas las escuelas públicas.
+* Desafío: La burocracia y el lobby de empresas propietarias que buscan mantener su influencia.
+* Beneficio: Una red educativa pública más barata, segura y alineada con los valores de equidad y transparencia.
+
+## 5.5. Cultura de comunidad
+
+* Acción con ejemplo: Celebrar “Días de Software Libre” como en México, con estudiantes y docentes mostrando proyectos hechos con GIMP o Scratch.
+* Desafío: Lograr participación activa y superar la idea de que lo gratuito es de menor calidad.
+* Beneficio: Una comunidad unida que comparte soluciones y crece junta, inspirando a otros a sumarse al movimiento.
