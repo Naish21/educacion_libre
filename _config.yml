@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: Manifiesto para una educación libre
+description: Por qué debemos usar software y recursos libres para la educación
