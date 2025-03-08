@@ -276,4 +276,4 @@ Hacer realidad esta visión requiere voluntad y acción colectiva. Fomentar pol�
 <a name="10_Anexos"></a>
 # 10. Anexos prácticos (wip)
 
-https://www.gnu.org/software/free-software-for-education.es.html
+[https://www.gnu.org/software/free-software-for-education.es.html](https://www.gnu.org/software/free-software-for-education.es.html)
