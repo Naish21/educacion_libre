@@ -1,114 +1,63 @@
 "La Importancia del Software Libre y los Recursos Educativos Abiertos en la Educación"
 
-# Indice
-1. [Resumen y objetivos](#1_resumen_ejecutivo): Rol transformador de la tecnología, problema de dependencia en sistemas propietarios (Google, Microsoft, Apple) y propuesta de software libre y REA para autonomía, accesibilidad y calidad.
-2.  [Introducción](#2_introduccion): Importancia de la tecnología en educación, crítica a ecosistemas corporativos por limitar soberanía, y justificación del software libre por beneficios éticos, pedagógicos y económicos.
-3. [Estado del Arte](#3_estado_del_arte): Análisis de plataformas propietarias (Google Classroom, Microsoft Office 365) y contraste con alternativas libres como Moodle y GNU/Linux, con casos exitosos (proyecto Linex de Extremadura, Raspberry Pi, Sugar OS).
-4. [Ventajas](#4_ventajas_del_software_libre): Independencia, transparencia, aprendizaje activo, ahorro de costos, habilidades futuras y colaboración comunitaria.
-5. [Propuesta práctica](#5_propuesta_practica): Integrar software libre (crear tablets, usar OS abiertos), REA, capacitación docente e institucional para accesibilidad.
-6. [Impacto en estudiantes](#6_impacto_en_la_formacion_de_los_estudiantes): Mejora habilidades técnicas y críticas, fomenta creatividad y colaboración, prepara para mercados tecnológicos abiertos y conciencia ética.
-7. [Desafíos](#7_retos_y_limitaciones): Resistencia al cambio, necesidad de capacitación, limitaciones técnicas e integración con sistemas existentes.
-8. [Conclusión](#8_conclusion): Reafirma importancia del software libre y REA para educación soberana y equitativa, llamando a acción colectiva.
-9. [Referencias](#9_Referencias): Incluye recursos gubernamentales españoles, plataformas de escritura colaborativa y otros materiales, con URLs específicas (ver tabla en referencias).
-10. Anexos: Guía práctica para implementar software libre y REA en el aula. Listado de herramientas libres y REA recomendados. Ejemplos de proyectos educativos exitosos basados en software libre y REA.
+1. [Resumen y Propósito](#1_resumen_ejecutivo)
 
----
-
-# Esquema Resumen
-
-1. [Resumen Ejecutivo](#1_resumen_ejecutivo)
-* **Breve descripción del tema:** La relevancia de las plataformas tecnológicas y los recursos educativos en la educación moderna.
-* **Planteamiento del problema**: La dependencia de software privativo y materiales educativos cerrados en las escuelas, y sus implicaciones éticas, económicas y pedagógicas.
-* **Propuesta**: Uso de plataformas libres (GNU/Linux, software abierto) y Recursos Educativos Abiertos (REA), destacando su impacto positivo en la autonomía, accesibilidad y calidad educativa.
-* **Objetivos del paper**: Concienciar sobre la importancia del software libre y los REA en la educación, y proponer alternativas prácticas para su implementación.
+   Explica cómo la tecnología transforma la educación, señala el problema de depender de sistemas cerrados como Google o Microsoft, y propone el software libre y los Recursos Educativos Abiertos (REA) para lograr autonomía, accesibilidad y calidad. Objetivo: concienciar y ofrecer soluciones prácticas.
 
 2. [Introducción](#2_introduccion)
-* **Contextualización**: El papel transformador de la tecnología y los recursos educativos en la educación actual.
-* **Problemática**: Cómo las grandes empresas tecnológicas (Google, Microsoft, Apple) y los editores de materiales cerrados fomentan la dependencia de sus ecosistemas, limitando la soberanía educativa.
-* **Justificación**: Razones para promover el uso de software libre y REA en las escuelas, incluyendo beneficios éticos, pedagógicos y económicos.
-* **Objetivos del documento**: Analizar las ventajas del software libre y los REA, y proponer estrategias para su integración efectiva en el ámbito educativo.
 
-3. [Estado del Arte](#3_estado_del_arte)
-* [**Análisis de las plataformas y recursos actuales**](#3_1_analisis_de_las_plataformas): Panorama de las herramientas tecnológicas y materiales educativos predominantes en la educación.
-* [**Uso predominante de software privativo y materiales cerrados**](#3_2_uso_predominante_de_software_privativo): Ejemplos como Google Classroom, Microsoft Office 365, y libros de texto propietarios.
-* [**Alternativas existentes**](#3_3_alternativas_existentes): Plataformas libres (GNU/Linux, Moodle) y REA (OER Commons, WikiEducator), con casos de adopción en centros educativos.
-* [**Proyectos exitosos**](#3_4_breve_mencion_a_proyectos_exitosos): Mención de iniciativas como Raspberry Pi en escuelas, distribuciones Linux educativas, y repositorios de REA.
+   Destaca el rol clave de la tecnología en la educación actual, critica cómo las grandes empresas limitan la independencia educativa, y defiende el software libre y los REA por sus ventajas éticas, pedagógicas y económicas.
 
-4. [Ventajas del Software Libre y los Recursos Educativos Abiertos en la Educación](#4_ventajas_del_software_libre)
-  
-    4.1. [Independencia tecnológica](#4_1_libertad_e_independencia)
-* Evitar la dependencia de ecosistemas cerrados tanto en software como en materiales educativos.
-* Fomentar la libertad de elección y adaptación a las necesidades locales.
+3. [Panorama actual](#3_estado_del_arte)
 
-    4.2. [Transparencia y seguridad](#4_2_transparencia_y_proteccion)
-* Código abierto como garantía de transparencia en software.
-* Licencias abiertas en REA para accesibilidad y adaptabilidad.
+   Compara plataformas propietarias (Google Classroom, Microsoft Office) con opciones libres como Moodle o GNU/Linux, y muestra ejemplos exitosos como el proyecto Linex en Extremadura o Raspberry Pi en escuelas.
 
-    4.3. [Aprendizaje significativo](#4_3_aprendizaje_activo)
-* Posibilidad de modificar y comprender tanto el software como los materiales educativos.
-* Introducción a conceptos de programación, sistemas operativos y creación de contenido.
+4. [Beneficios del Software Libre y los REA](#4_ventajas_del_software_libre)
 
-    4.4. [Coste económico](#4_4_ahorro_y_equidad)
-* Reducción de costos en licencias de software y adquisición de materiales educativos.
-* Acceso a herramientas y recursos gratuitos de alta calidad.
+   Habla de independencia tecnológica, transparencia, aprendizaje activo, ahorro económico, preparación para el futuro y colaboración comunitaria que ofrecen estas herramientas.
 
-    4.5. [Preparación para el futuro](#4_5_habilidades_para_el_futuro)
-* Software libre y REA como base de la tecnología y educación modernas.
-* Desarrollo de habilidades transferibles al ámbito laboral y académico.
+5. [Plan práctico para las aulas](#5_propuesta_practica)
 
-    4.6. [Comunidad y colaboración](#4_6_comunidad_y_colaboracion)
+   Sugiere usar tablets con software libre, sistemas operativos abiertos, REA, capacitar a docentes y crear infraestructura accesible con apoyo institucional.
 
-5. [Propuesta Práctica: Integración del Software Libre y los Recursos Educativos Abiertos en las Aulas](#5_propuesta_practica)
-* [Creación de una tablet con hardware y software libres](#5_1_creacion_de_una_tablet)
-* [Uso de sistemas operativos libres](#5_2_uso_de_sistemas_operativos_libres)
-* [Software abierto para el aula](#5_3_software_abierto_para_el_aula)
-* [Recursos Educativos Abiertos (REA)](#5_4_recursos_educativos_abiertos)
-* [Capacitación para docentes y estudiantes](#5_5_capacitacion_para_docentes_y_estudiantes)
-* [Infraestructura accesible y apoyo institucional](#5_6_infraestructura_accesible)
+6. [Efectos en los estudiantes](#6_impacto_en_la_formacion_de_los_estudiantes)
 
-6. [Impacto en la Formación de los Estudiantes](#6_impacto_en_la_formacion_de_los_estudiantes)
-* [Desarrollo de habilidades técnicas y críticas mediante el uso de software libre y REA.](#6_1_desarrollo_de_habilidades_tecnicas_y_criticas)
-* [Fomento de la creatividad, la colaboración y la resolución de problemas.](#6_2_fomento_de_la_creatividad)
-* [Preparación para un mercado laboral y académico basado en tecnologías y recursos abiertos.](#6_3_preparacion_para_un_mercado_laboral)
-* [Concienciación sobre la ética en la tecnología y la importancia de la apertura en la educación.](#6_4_concienciacion_sobre_la_etica)
+   Describe cómo mejoran habilidades técnicas y críticas, se fomenta la creatividad y colaboración, y se prepara a los alumnos para mercados tecnológicos abiertos con conciencia ética.
 
-7. [Retos y Limitaciones](#7_retos_y_limitaciones)
-* [Resistencia al cambio por parte de instituciones y profesores ante el software libre y los REA.](#7_1_resistencia_al_cambio)
-* [Necesidad de formación docente en el uso y creación de software libre y REA.](#7_2_necesidad_de_formacion_docente)
-* [Limitaciones técnicas en algunos entornos educativos.](#7_3_limitaciones_tecnicas)
-* [Desafíos de integración con sistemas y prácticas educativas existentes.](#7_4_desafios_de_integracion)
+7. [Obstáculos a superar](#7_retos_y_limitaciones)
+
+   Reconoce la resistencia al cambio, la necesidad de formación, limitaciones técnicas y los retos de integrar estas herramientas en sistemas educativos actuales.
 
 8. [Conclusión](#8_conclusion)
-* [Recapitulación de los puntos clave: Ventajas del software libre y los REA en la educación.](#8_1_recapitulacion)
-* [Reafirmación de la importancia: Adoptar plataformas libres y recursos abiertos para una educación soberana y equitativa.](#8_2_reafirmacion)
-* [Llamado a la acción: Fomentar políticas educativas que prioricen el software libre y los REA.](#8_3_llamada_a_la_accion)
 
-9. [Referencias](#9_Referencias)
-* Fuentes académicas, artículos, libros y recursos en línea que respalden los argumentos sobre software libre y REA.
-* Ejemplos: Proyectos de software libre, estudios sobre su impacto educativo, e iniciativas de REA como OER Commons.
+   Resume las ventajas, reafirma la necesidad de una educación soberana y equitativa con software libre y REA, y pide acción colectiva para impulsarlos.
 
-10. Anexos
-* Guía práctica para implementar software libre y REA en el aula.
-* Listado de herramientas libres y REA recomendados.
-* Ejemplos de proyectos educativos exitosos basados en software libre y REA.
+9. [Fuentes Consultadas](#9_Referencias)
+
+   Incluye referencias útiles como recursos gubernamentales, estudios sobre software libre y plataformas de REA, con enlaces específicos.
+
+10. Anexos Prácticos
+
+   Ofrece una guía para usar software libre y REA en clase, un listado de herramientas recomendadas y ejemplos de proyectos educativos exitosos.
+
 
 ---
 
 <a name="1_resumen_ejecutivo"></a>
 # 1. Resumen Ejecutivo
 
-La integración de plataformas tecnológicas y recursos educativos ha revolucionado la educación, derribando barreras geográficas y temporales y consolidándose como un pilar esencial para el desarrollo académico del siglo XXI. Este documento explora la relevancia de estas herramientas y materiales, destacando su potencial para ampliar el acceso al conocimiento y cultivar habilidades digitales clave. Sin embargo, esta transformación enfrenta un desafío crítico: la dependencia generalizada de software privativo y materiales educativos cerrados en las escuelas, promovida por gigantes tecnológicos como Google, Microsoft y Apple, así como por editores de contenido propietario. Estos sistemas y recursos imponen costos elevados, formatos cerrados y una falta de transparencia que limita la personalización y la autonomía de las instituciones educativas, compromete la privacidad de estudiantes y docentes, perpetúa desigualdades, coarta la creatividad y forma generaciones de usuarios pasivos, habituados a consumir tecnología y contenido sin comprenderlos ni cuestionarlos.
+La integración de plataformas tecnológicas y recursos educativos ha revolucionado la educación, derribando barreras geográficas y temporales y consolidándose como un pilar esencial para el desarrollo académico del siglo XXI. Este documento explora la relevancia de estas herramientas y materiales, destacando su potencial para ampliar el acceso al conocimiento y cultivar habilidades digitales clave. Sin embargo, esta transformación enfrenta un desafío crítico: la dependencia generalizada de software privativo y materiales educativos cerrados en las escuelas, promovida por gigantes tecnológicos como Google, Microsoft y Apple, así como por editores de contenido propietario. Estos sistemas y recursos imponen costes elevados, formatos cerrados y una falta de transparencia que limita la personalización y la autonomía de las instituciones educativas, compromete la privacidad de estudiantes y docentes, perpetúa desigualdades, coarta la creatividad y forma generaciones de usuarios pasivos, habituados a consumir tecnología y contenido sin comprenderlos ni cuestionarlos.
 
-En respuesta a esta problemática, este documento propone la adopción de plataformas libres, como GNU/Linux y otras soluciones de software abierto, junto con Recursos Educativos Abiertos (REA), que se presentan como alternativas accesibles, seguras y altamente adaptables a las necesidades del entorno educativo. Estas herramientas y materiales reducen significativamente los costos asociados a licencias y adquisiciones, al tiempo que promueven valores fundamentales como la transparencia, la colaboración y el empoderamiento. Al implementarlas, las escuelas pueden personalizar tanto su infraestructura tecnológica como sus contenidos educativos, fomentar el aprendizaje colaborativo y devolver el control a las comunidades educativas, cultivando así la independencia tecnológica y el pensamiento crítico en un mundo digital.
+En respuesta a esta problemática, este documento propone la adopción de plataformas libres, como GNU/Linux y otras soluciones de software abierto, junto con Recursos Educativos Abiertos (REA), que se presentan como alternativas accesibles, seguras y altamente adaptables a las necesidades del entorno educativo. Estas herramientas y materiales reducen significativamente los costes asociados a licencias y adquisiciones, al tiempo que promueven valores fundamentales como la transparencia, la colaboración y el empoderamiento. Al implementarlas, las escuelas pueden personalizar tanto su infraestructura tecnológica como sus contenidos educativos, fomentar el aprendizaje colaborativo y devolver el control a las comunidades educativas, cultivando así la independencia tecnológica y el pensamiento crítico en un mundo digital.
 
 Con un enfoque doble, este paper busca: primero, concienciar a educadores, administradores y responsables de políticas educativas sobre las ventajas éticas, sociales y pedagógicas del software libre y los REA, posicionándolos como opciones sostenibles para construir un modelo educativo más justo, inclusivo y soberano; segundo, ofrecer alternativas prácticas para su implementación, demostrando cómo las escuelas pueden optimizar recursos y formar a estudiantes como creadores activos de tecnología y conocimiento, no solo como consumidores. A través de ejemplos concretos, como el uso de Raspberry Pi y repositorios de REA, se ilustra su viabilidad, analizando además su impacto positivo en la formación estudiantil y los retos de su adopción. Esta propuesta aspira a inspirar un cambio hacia sistemas y recursos educativos que no limiten, sino que fortalezcan a la comunidad educativa, preparándola para los desafíos de una sociedad digital consciente y libre.
 
 <a name="2_introduccion"></a>
 # 2. Introducción
 
-La educación es uno de los pilares fundamentales para el desarrollo y progreso de cualquier sociedad sana y próspera. En este contexto, la tecnología se ha entrelazado inseparablemente con la enseñanza, transformando la manera en que se enseña, se aprende y se accede al conocimiento. Herramientas digitales, aulas virtuales y recursos en línea han derribado barreras geográficas y temporales, abriendo oportunidades sin precedentes para estudiantes y educadores en un mundo interconectado. Sin embargo, esta revolución tecnológica viene acompañada de una sombra crítica: la creciente dependencia de soluciones privativas —como los sistemas operativos Windows, macOS y Chrome OS, y aplicaciones comerciales de gigantes como Google, Microsoft y Apple— que dominan los entornos educativos. Estas empresas han tejido una red de ecosistemas cerrados que, aunque funcionales y ampliamente adoptados, atan a las instituciones a sus productos, imponiendo costos elevados, formatos propietarios y una vigilancia constante de datos que compromete la privacidad de estudiantes y docentes.
+La educación es uno de los pilares fundamentales para el desarrollo y progreso de cualquier sociedad sana y próspera. En este contexto, la tecnología se ha entrelazado inseparablemente con la enseñanza, transformando la manera en que se enseña, se aprende y se accede al conocimiento. Herramientas digitales, aulas virtuales y recursos en línea han derribado barreras geográficas y temporales, abriendo oportunidades sin precedentes para estudiantes y educadores en un mundo interconectado. Sin embargo, esta revolución tecnológica viene acompañada de una sombra crítica: la creciente dependencia de soluciones privativas —como los sistemas operativos Windows, macOS y Chrome OS, y aplicaciones comerciales de gigantes como Google, Microsoft y Apple— que dominan los entornos educativos. Estas empresas han tejido una red de ecosistemas cerrados que, aunque funcionales y ampliamente adoptados, atan a las instituciones a sus productos, imponiendo costes elevados, formatos propietarios y una vigilancia constante de datos que compromete la privacidad de estudiantes y docentes.
 
-Esta dependencia no es casual ni inocente. Las grandes corporaciones tecnológicas han consolidado su presencia en las aulas mediante estrategias de marketing disfrazadas de generosidad, ofreciendo software gratuito o a bajo costo a los estudiantes con un objetivo claro: habituar a las nuevas generaciones a sus productos, asegurándose de que se conviertan en clientes leales en el futuro. Sin embargo, este modelo tiene un costo elevado, tanto técnico como ético y social. Al priorizar el software privativo, las escuelas no solo enfrentan limitaciones económicas, sino que también forman generaciones de usuarios pasivos, habituados a consumir tecnología sin cuestionarla ni comprenderla. Esta realidad limita la libertad y la creatividad de estudiantes y profesores, coarta la autonomía tecnológica y perpetúa desigualdades, especialmente en comunidades con recursos limitados, donde el acceso a licencias costosas o dispositivos específicos resulta prohibitivo.
+Esta dependencia no es casual ni inocente. Las grandes corporaciones tecnológicas han consolidado su presencia en las aulas mediante estrategias de marketing disfrazadas de generosidad, ofreciendo software gratuito o a bajo coste a los estudiantes con un objetivo claro: habituar a las nuevas generaciones a sus productos, asegurándose de que se conviertan en clientes leales en el futuro. Sin embargo, este modelo tiene un coste elevado, tanto técnico como ético y social. Al priorizar el software privativo, las escuelas no solo enfrentan limitaciones económicas, sino que también forman generaciones de usuarios pasivos, habituados a consumir tecnología sin cuestionarla ni comprenderla. Esta realidad limita la libertad y la creatividad de estudiantes y profesores, coarta la autonomía tecnológica y perpetúa desigualdades, especialmente en comunidades con recursos limitados, donde el acceso a licencias costosas o dispositivos específicos resulta prohibitivo.
 
 Frente a este panorama, el software libre emerge como una alternativa poderosa, necesaria y transformadora. Sistemas como GNU/Linux y herramientas de código abierto no solo son gratuitos y adaptables, sino que también encarnan valores esenciales para la educación: transparencia, colaboración y empoderamiento. Este enfoque permite a estudiantes y profesores utilizar, modificar y distribuir las herramientas según sus necesidades, y, más importante aún, les brinda la oportunidad de aprender cómo funciona la tecnología, desarrollar habilidades críticas y contribuir a su mejora. Así, el software libre no solo ofrece una solución práctica, sino que promueve un modelo educativo que devuelve el control a las comunidades educativas, fomentando el pensamiento crítico y la innovación.
 
@@ -124,7 +73,7 @@ En la actualidad, las plataformas tecnológicas desempeñan un papel central en 
 
 Las herramientas tecnológicas más utilizadas en las escuelas y universidades suelen estar vinculadas a ecosistemas cerrados. Por ejemplo, Google Classroom se ha convertido en una plataforma líder para la gestión del aprendizaje, integrándose con servicios como Google Drive y Google Docs. De manera similar, Microsoft Office 365 ofrece un conjunto de aplicaciones (Word, Excel, Teams) que son ampliamente adoptadas en entornos educativos, mientras que dispositivos como los iPads de Apple son comunes en muchas aulas, especialmente en países con mayores recursos económicos. Estas soluciones, aunque funcionales y accesibles, refuerzan un modelo de dependencia tecnológica al priorizar formatos propietarios, almacenamiento en la nube controlado por las empresas y licencias restrictivas que limitan la libertad de los usuarios.
 
-Esta hegemonía del software privativo tiene implicaciones profundas: los estudiantes y docentes se acostumbran a herramientas que no permiten modificar, estudiar o compartir su código fuente, lo que coarta el aprendizaje profundo sobre cómo funciona la tecnología. Además, el costo de las licencias y suscripciones representa una carga económica significativa para instituciones educativas, especialmente en regiones con recursos limitados.
+Esta hegemonía del software privativo tiene implicaciones profundas: los estudiantes y docentes se acostumbran a herramientas que no permiten modificar, estudiar o compartir su código fuente, lo que coarta el aprendizaje profundo sobre cómo funciona la tecnología. Además, el coste de las licencias y suscripciones representa una carga económica significativa para instituciones educativas, especialmente en regiones con recursos limitados.
 
 <a name="3_2_uso_predominante_de_software_privativo"></a>
 ## 3.2. Uso predominante de software privativo: Google Classroom, Microsoft Office 365, etc.
@@ -134,14 +83,14 @@ El uso de plataformas como Google Classroom y Microsoft Office 365 no solo es pr
 <a name="3_3_alternativas_existentes"></a>
 ## 3.3. Alternativas existentes: plataformas libres y su adopción en algunos centros educativos
 
-Frente a este escenario, el software libre ofrece alternativas viables y éticamente alineadas con los principios educativos. Sistemas operativos como GNU/Linux, con distribuciones específicas para la educación (como Edubuntu o Debian Edu), proporcionan entornos seguros, personalizables y gratuitos. Herramientas como Moodle, una plataforma de aprendizaje de código abierto, permiten a las instituciones gestionar cursos y recursos sin depender de servicios externos. Además, suites ofimáticas como LibreOffice ofrecen compatibilidad con formatos estándar y la posibilidad de adaptarlas a necesidades específicas, sin costo alguno.
+Frente a este escenario, el software libre ofrece alternativas viables y éticamente alineadas con los principios educativos. Sistemas operativos como GNU/Linux, con distribuciones específicas para la educación (como Edubuntu o Debian Edu), proporcionan entornos seguros, personalizables y gratuitos. Herramientas como Moodle, una plataforma de aprendizaje de código abierto, permiten a las instituciones gestionar cursos y recursos sin depender de servicios externos. Además, suites ofimáticas como LibreOffice ofrecen compatibilidad con formatos estándar y la posibilidad de adaptarlas a necesidades específicas, sin coste alguno.
 
-La adopción de estas soluciones, aunque aún minoritaria, está creciendo en algunos contextos. Por ejemplo, en países como España, regiones como Extremadura han implementado con éxito proyectos basados en software libre en escuelas públicas, utilizando distribuciones como Linex. Estas iniciativas demuestran que es posible reducir costos, fomentar la autonomía tecnológica y garantizar un acceso equitativo a la educación sin sacrificar calidad.
+La adopción de estas soluciones, aunque aún minoritaria, está creciendo en algunos contextos. Por ejemplo, en países como España, regiones como Extremadura han implementado con éxito proyectos basados en software libre en escuelas públicas, utilizando distribuciones como Linex. Estas iniciativas demuestran que es posible reducir costes, fomentar la autonomía tecnológica y garantizar un acceso equitativo a la educación sin sacrificar calidad.
 
 <a name="3_4_breve_mencion_a_proyectos_exitosos"></a>
 ## 3.4. Breve mención a proyectos exitosos de software libre en educación
 
-Existen casos emblemáticos que ilustran el potencial del software libre en la educación. El proyecto Raspberry Pi, por ejemplo, ha revolucionado el acceso a la informática en escuelas de todo el mundo. Estas pequeñas computadoras de bajo costo, combinadas con sistemas operativos libres como Raspberry Pi OS, permiten a los estudiantes experimentar con programación y hardware de manera práctica y asequible. Otro ejemplo notable es el uso de distribuciones Linux educativas, como Sugar (diseñada para niños) o Ubuntu Mate en entornos escolares, que priorizan la simplicidad y el aprendizaje activo. Estos proyectos no solo democratizan el acceso a la tecnología, sino que también incentivan la curiosidad y la creatividad, valores fundamentales en la educación.
+Existen casos emblemáticos que ilustran el potencial del software libre en la educación. El proyecto Raspberry Pi, por ejemplo, ha revolucionado el acceso a la informática en escuelas de todo el mundo. Estas pequeñas computadoras de bajo coste, combinadas con sistemas operativos libres como Raspberry Pi OS, permiten a los estudiantes experimentar con programación y hardware de manera práctica y asequible. Otro ejemplo notable es el uso de distribuciones Linux educativas, como Sugar (diseñada para niños) o Ubuntu Mate en entornos escolares, que priorizan la simplicidad y el aprendizaje activo. Estos proyectos no solo democratizan el acceso a la tecnología, sino que también incentivan la curiosidad y la creatividad, valores fundamentales en la educación.
 
 En resumen, aunque el software privativo domina el estado actual de las plataformas tecnológicas en la educación, las alternativas libres están ganando terreno como opciones viables y sostenibles. Su adopción, respaldada por casos de éxito, pone de manifiesto que es posible construir un modelo educativo tecnológicamente independiente, inclusivo y alineado con los principios de libertad y equidad.
 
@@ -158,7 +107,7 @@ Lejos de atar a los usuarios a plataformas controladas por intereses comerciales
 <a name="4_2_transparencia_y_proteccion"></a>
 ## 4.2. Transparencia y protección
 
-La esencia abierta de estas herramientas garantiza que nada quede oculto: el software puede ser revisado para assicurare su integridad y los materiales educativos son accesibles sin condiciones opacas. Esta transparencia protege la privacidad de quienes aprenden y enseñan, al tiempo que fomenta un uso confiable y ético de la tecnología en el aula.
+La esencia abierta de estas herramientas garantiza que nada quede oculto: el software puede ser revisado para asegurar su integridad y los materiales educativos son accesibles sin condiciones opacas. Esta transparencia protege la privacidad de quienes aprenden y enseñan, al tiempo que fomenta un uso confiable y ético de la tecnología en el aula.
 
 <a name="4_3_aprendizaje_activo"></a>
 ## 4.3. Aprendizaje activo
@@ -168,7 +117,7 @@ El software libre y los REA invitan a ir más allá del consumo pasivo de inform
 <a name="4_4_ahorro_y_equidad"></a>
 ## 4.4. Ahorro y equidad
 
-Eliminar los costos asociados a licencias y materiales propietarios hace que la educación sea un derecho más tangible. Este enfoque no solo alivia la carga económica de escuelas y familias, sino que asegura que recursos de calidad estén al alcance de todos, derribando barreras que perpetúan la desigualdad.
+Eliminar los costes asociados a licencias y materiales propietarios hace que la educación sea un derecho más tangible. Este enfoque no solo alivia la carga económica de escuelas y familias, sino que asegura que recursos de calidad estén al alcance de todos, derribando barreras que perpetúan la desigualdad.
 
 <a name="4_5_habilidades_para_el_futuro"></a>
 ## 4.5. Habilidades para el futuro
@@ -336,7 +285,7 @@ Tabla resumen:
 
 #### Categoría: Otros
 
-Esta categoría incluye una amplia variedad de recursos, desde artículos, páginas web, PDFs y plataformas globales relacionadas con software libre y educación abierta. He verificado la accesibilidad de muchas URLs, notando que algunas son archivos PDF o páginas archivadas que podrían no estar disponibles directamente.
+Esta categoría incluye una amplia variedad de recursos, desde artículos, páginas web, PDFs y plataformas globales relacionadas con software libre y educación abierta.
 
 - [https://www3.gobiernodecanarias.org/medusa/ecoescuela/seguridad/ciudadania-y-seguridad-tic/principios-legales/ software-libre/ el- software-libre-en- educacion/](https://www3.gobiernodecanarias.org/medusa/ecoescuela/seguridad/ciudadania-y-seguridad-tic/principios-legales/ software-libre/ el- software-libre-en- educacion/) discute el software libre en educación, con argumentos de Richard Stallman y un decálogo de CENATIC, incluyendo contrargumentos de Héctor Montenegro (Microsoft). Enlaza a videos ([https://youtube.com/watch?v=cnJ-rGBX9Es](https://youtube.com/watch?v=cnJ-rGBX9Es)) y otros recursos.
 
@@ -352,9 +301,9 @@ Esta categoría incluye una amplia variedad de recursos, desde artículos, pági
 
 - Artículos de Opensource.com, como [https://opensource.com/article/21/9/raspberry-pi-crowpi2](https://opensource.com/article/21/9/raspberry-pi-crowpi2) sobre CrowPi2, y [https://opensource.com/article/21/12/open-source- education](https://opensource.com/article/21/12/open-source- education) con 12 ejemplos inspiradores, están licenciados bajo Creative Commons ([http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/)).
 
-- PDFs y recursos archivados, como [https://web.archive.org/web/20170517053347/http://www.uoc.edu/rusc/4/1/dt/ esp/boneu.pdf](https://web.archive.org/web/20170517053347/http://www.uoc.edu/rusc/4/1/dt/ esp/boneu.pdf) y [http://sedici.unlp.edu.ar/bitstream/handle/10915/24549/Documento_completo.pdf?sequence=1](http://sedici.unlp.edu.ar/bitstream/handle/10915/24549/Documento_completo.pdf?sequence=1), son documentos académicos relevantes, aunque su accesibilidad depende de los servidores.
+- PDFs y recursos archivados, como [https://web.archive.org/web/20170517053347/http://www.uoc.edu/rusc/4/1/dt/ esp/boneu.pdf](https://web.archive.org/web/20170517053347/http://www.uoc.edu/rusc/4/1/dt/ esp/boneu.pdf) y [http://sedici.unlp.edu.ar/bitstream/handle/10915/24549/Documento_completo.pdf?sequence=1](http://sedici.unlp.edu.ar/bitstream/handle/10915/24549/Documento_completo.pdf?sequence=1), son documentos académicos relevantes
 
-- La URL [https://joint-research-centre.ec.europa.eu/ what-open- education_en](https://joint-research-centre.ec.europa.eu/ what-open- education_en) no fue accesible, mostrando un error 403, por lo que se sugiere verificar o buscar alternativas.
+- La URL [https://joint-research-centre.ec.europa.eu/ what-open- education_en](https://joint-research-centre.ec.europa.eu/ what-open- education_en)
 
 Tabla resumen de algunos ejemplos:
 
