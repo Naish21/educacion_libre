@@ -1,5 +1,7 @@
 "La Importancia del Software Libre y los Recursos Educativos Abiertos en la Educación"
 
+# Indice
+
 1. [Resumen y Propósito](#1_resumen_ejecutivo)
 
    Explica cómo la tecnología transforma la educación, señala el problema de depender de sistemas cerrados como Google o Microsoft, y propone el software libre y los Recursos Educativos Abiertos (REA) para lograr autonomía, accesibilidad y calidad. Objetivo: concienciar y ofrecer soluciones prácticas.
