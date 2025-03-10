@@ -63,7 +63,17 @@ Esta dependencia no es casual ni inocente. Las grandes corporaciones tecnológic
 
 Frente a este panorama, el software libre emerge como una alternativa poderosa, necesaria y transformadora. Sistemas como GNU/Linux y herramientas de código abierto no solo son gratuitos y adaptables, sino que también encarnan valores esenciales para la educación: transparencia, colaboración y empoderamiento. Este enfoque permite a estudiantes y profesores utilizar, modificar y distribuir las herramientas según sus necesidades, y, más importante aún, les brinda la oportunidad de aprender cómo funciona la tecnología, desarrollar habilidades críticas y contribuir a su mejora. Así, el software libre no solo ofrece una solución práctica, sino que promueve un modelo educativo que devuelve el control a las comunidades educativas, fomentando el pensamiento crítico y la innovación.
 
-El software libre, según la Free Software Foundation (FSF), es aquel que respeta la libertad de los usuarios, otorgándoles el derecho de usar, estudiar, modificar y distribuir el programa o sus modificaciones, siempre que se respeten las cuatro libertades esenciales: libertad 0 (usarlo con cualquier propósito), libertad 1 (estudiar cómo funciona), libertad 2 (redistribuirlo) y libertad 3 (mejorarlo y compartir las mejoras).
+El software libre, según la Free Software Foundation (FSF), es aquel que respeta la libertad de los usuarios, otorgándoles el derecho de usar, estudiar, modificar y distribuir el programa o sus modificaciones, siempre que se respeten las cuatro libertades esenciales: libertad 0 (usarlo con cualquier propósito), libertad 1 (estudiar cómo funciona), libertad 2 (redistribuirlo) y libertad 3 (mejorarlo y compartir las mejoras). El software libre es más que una herramienta: es un movimiento altruista que busca empoderar a los usuarios, fomentando la libertad y la soberanía digital. Esta guía explora su filosofía y su impacto en la educación.
+
+Según Richard Stallman y la Free Software Foundation, el software libre garantiza:
+- Libertad 0: Usarlo para cualquier propósito.
+- Libertad 1: Estudiar y modificar su código.
+- Libertad 2: Compartir copias.
+- Libertad 3: Distribuir versiones modificadas.
+
+Libre no significa gratuito: es una cuestión de derechos, no de precio.
+
+![image](static/4libertades.png)
 
 Este documento nace de la urgente necesidad de desafiar el statu quo tecnológico en la educación y abogar por un cambio hacia un modelo tecnológicamente soberano, inclusivo y alineado con las demandas de una sociedad digital consciente. Su propósito es doble: primero, destacar las ventajas del software libre, desde su accesibilidad económica hasta su potencial pedagógico para construir un futuro educativo más justo; segundo, ofrecer un camino práctico para su integración en las escuelas, demostrando que es posible transformar la tecnología en un medio para la libertad y el progreso colectivo, en lugar de una barrera. Con esta visión, se busca no solo informar, sino inspirar una educación tecnológicamente libre y humana, donde estudiantes y docentes sean protagonistas de su entorno digital.
 
@@ -103,43 +113,37 @@ En resumen, aunque el software privativo domina el estado actual de las platafor
 
 El software libre y los Recursos Educativos Abiertos (REA) ofrecen mucho más que soluciones técnicas: representan una oportunidad para repensar la educación desde sus fundamentos. En un mundo donde las barreras económicas, tecnológicas y culturales a menudo limitan el acceso al aprendizaje, estas herramientas proponen un camino hacia la equidad, la creatividad y la autonomía. Al liberar a las instituciones y a los individuos de las restricciones de los sistemas propietarios, se abre la puerta a un modelo educativo que no solo es más accesible, sino también más participativo y preparado para las demandas del presente y el futuro. Las ventajas de este enfoque trascienden lo práctico y se convierten en un compromiso ético con el conocimiento como bien común.
 
-<a name="4_1_libertad_e_independencia"></a>
-## 4.1. Libertad e independencia
+El software libre trasciende su función como herramienta tecnológica: redefine la educación al cultivar habilidades y valores fundamentales para el crecimiento personal y colectivo. Desde fomentar la colaboración hasta preparar a los estudiantes para un mundo digital, sus beneficios hacen del aprendizaje un proceso más accesible, ético y creativo.
 
-Lejos de atar a los usuarios a plataformas controladas por intereses comerciales, el software libre y los REA devuelven el poder de decidir cómo y qué aprender. Esta independencia permite que las comunidades educativas adapten las herramientas y los contenidos a sus propias realidades, construyendo una educación que respeta la diversidad y no impone moldes externos.
+![image](static/7_razones_software_libre_HZ.png)
 
-<a name="4_2_transparencia_y_proteccion"></a>
-## 4.2. Transparencia y protección
+## 4.1. Promueve la cooperación
 
-La esencia abierta de estas herramientas garantiza que nada quede oculto: el software puede ser revisado para asegurar su integridad y los materiales educativos son accesibles sin condiciones opacas. Esta transparencia protege la privacidad de quienes aprenden y enseñan, al tiempo que fomenta un uso confiable y ético de la tecnología en el aula.
+El software libre establece un entorno donde estudiantes, profesores y familias colaboran sin barreras, compartiendo recursos libremente. Su código abierto invita a las comunidades a mejorarlo juntas, fortaleciendo el compañerismo y la solidaridad. Por ejemplo, herramientas como GIMP pueden pasarse entre alumnos para usarlas en casa o en el aula, mientras que los Recursos Educativos Abiertos (REA), creados y distribuidos bajo licencias abiertas, permiten a docentes y estudiantes enriquecer el aprendizaje colectivo, guiándose unos a otros en un espíritu de apoyo mutuo.
 
-<a name="4_3_aprendizaje_activo"></a>
-## 4.3. Aprendizaje activo
+## 4.2. Fomenta la autonomía
 
-El software libre y los REA invitan a ir más allá del consumo pasivo de información. Al permitir que estudiantes y docentes exploren, modifiquen y creen con estas herramientas, se promueve un aprendizaje que despierta la curiosidad y desarrolla habilidades prácticas, transformando a los usuarios en protagonistas de su educación.
+Con acceso al código fuente, el software libre empodera a los usuarios para estudiar, modificar y personalizar herramientas según sus necesidades, liberándolos de la dependencia de soluciones cerradas. Esto da a estudiantes y profesores control sobre su tecnología, promoviendo una independencia digital esencial. Los REA, al ser adaptables por cualquiera, refuerzan esta autonomía: un docente puede ajustar un recurso abierto para su clase, o un estudiante con habilidades técnicas puede mejorar un programa como Scratch, desarrollando iniciativa propia.
 
-<a name="4_4_ahorro_y_equidad"></a>
-## 4.4. Ahorro y equidad
+## 4.3. Ahorra costes
 
-Eliminar los costes asociados a licencias y materiales propietarios hace que la educación sea un derecho más tangible. Este enfoque no solo alivia la carga económica de escuelas y familias, sino que asegura que recursos de calidad estén al alcance de todos, derribando barreras que perpetúan la desigualdad.
+El software libre elimina los costos de licencias, reduciendo los gastos en tecnología para escuelas y familias. En lugar de pagar por permisos individuales, como exigen muchos programas propietarios, herramientas como LibreOffice o Linux son gratuitas, al igual que los REA, que ofrecen materiales educativos de calidad sin coste alguno. Este ahorro permite invertir en libros, infraestructura o actividades, haciendo la educación más equitativa y accesible para todos.
 
-<a name="4_5_habilidades_para_el_futuro"></a>
-## 4.5. Habilidades para el futuro
+## 4.4. Anima a aprender
 
-En un entorno donde la tecnología y el conocimiento evolucionan rápidamente, familiarizarse con soluciones abiertas prepara a los estudiantes para un mundo que valora la adaptabilidad y la colaboración. Estas herramientas no solo son la base de muchas innovaciones actuales, sino que enseñan a pensar críticamente sobre el uso de la tecnología.
+El software libre despierta la curiosidad al invitar a explorar cómo funcionan sus herramientas. Programas como Scratch, con su diseño visual tipo puzle, motivan a estudiantes de todas las edades a descubrir la programación, mientras que Stellarium abre una ventana interactiva al universo. Los REA complementan esto al ofrecer contenidos educativos abiertos que cualquiera puede explorar y ampliar, inspirando un aprendizaje activo y un deseo genuino de conocimiento que trasciende el aula.
 
-<a name="4_6_comunidad_y_colaboracion"></a>
-## 4.6. Comunidad y colaboración
+## 4.5. Potencia la creatividad e imaginación
 
-El espíritu del software libre y los REA radica en compartir. Al conectar a personas de diferentes contextos en un esfuerzo colectivo por construir y mejorar el conocimiento, se crea una red de aprendizaje que trasciende fronteras, enriqueciendo la educación con perspectivas diversas y un sentido de pertenencia global.
+La libertad de personalizar el software libre abre un mundo de posibilidades creativas. Desde diseñar objetos en 3D con FreeCAD o planos con LibreCAD, hasta imaginar viajes estelares con Celestia, los estudiantes tienen un lienzo abierto para innovar. Los REA potencian aún más esta creatividad: al ser modificables, permiten a docentes y alumnos crear recursos únicos, como guías personalizadas o proyectos multimedia, dando vida a sus ideas más originales.
 
-## 4.7. Ética y autonomía
+## 4.6. Prepara para la sociedad digital
 
-El software libre fomenta valores éticos al evitar la dependencia de empresas privadas y promover la soberanía tecnológica en las escuelas. Además, el software libre se rige por licencias como la GNU General Public License (GPL), que garantiza las libertades de uso, modificación y distribución, siempre que los derivados también sean libres. Esto asegura que el conocimiento permanezca accesible y no sea privatizado.
+El software libre familiariza a los estudiantes con tecnologías abiertas como GNU/Linux, usado en supercomputadoras y dispositivos cotidianos como móviles Android, dotándolos de habilidades clave para el mundo actual. Aprender con herramientas como Scratch desarrolla el pensamiento computacional, mientras que los REA, disponibles en línea y adaptados a la era digital, enseñan a navegar y contribuir a un entorno tecnológico en constante evolución, abriendo puertas a futuras oportunidades.
 
-## 4.8. Aprendizaje práctico
+## 4.7. Educa ciudadanos independientes y solidarios
 
-Permite a los estudiantes explorar el código fuente, lo que enriquece su comprensión de la informática y fomenta habilidades como el pensamiento crítico y la resolución de problemas.
+El software libre inculca valores como la transparencia, la libertad y la responsabilidad, formando personas conscientes de su rol en la comunidad. Al priorizar el acceso universal, asegura que nadie quede excluido por barreras económicas, un principio que comparten los REA, diseñados para ser compartidos globalmente. Frente a la explotación de datos por soluciones gratuitas pero cerradas, el software libre y los REA promueven una ética digital que valora la privacidad y el bienestar colectivo, educando ciudadanos comprometidos con un mundo más justo.
 
 <a name="5_propuesta_practica"></a>
 # 5. Propuesta Práctica: Integración del Software Libre y los Recursos Educativos Abiertos en las Aulas
@@ -248,6 +252,8 @@ Optar por plataformas libres y recursos abiertos es afirmar que la educación de
 ## 8.3. Llamada a la acción
 
 Hacer realidad esta visión requiere voluntad y acción colectiva. Fomentar políticas educativas que prioricen el software libre y los REA es el paso necesario para que instituciones, gobiernos y comunidades se alineen en un esfuerzo común, construyendo un sistema educativo que refleje los valores de apertura y justicia que aquí se proclaman. Adoptar el software libre no solo es una decisión económica, sino un compromiso con la libertad, la equidad y la educación como bien común, alineándose con los principios de la FSF y el movimiento global por el conocimiento abierto.
+
+Adoptar el software libre es un acto de responsabilidad: garantiza libertad, seguridad y un futuro digital ético para estudiantes y familias.
 
 <a name="9_Referencias"></a>
 # 9. Referencias
