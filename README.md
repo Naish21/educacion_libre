@@ -1,4 +1,6 @@
-"La Importancia del Software Libre y los Recursos Educativos Abiertos en la Educación"
+**"La Importancia del Software Libre y los Recursos Educativos Abiertos en la Educación"**
+
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ~ 2025 ~ by [Jorge Aranda Moro](mailto:jorge.aranda.moro@gmail.com)
 
 # Indice
 
@@ -40,7 +42,7 @@
 
 10. [Anexos Prácticos](#10_Anexos)
 
-   Ofrece una guía para usar software libre y REA en clase, un listado de herramientas recomendadas y ejemplos de proyectos educativos exitosos.
+    Ofrece una guía para usar software libre y REA en clase, un listado de herramientas recomendadas y ejemplos de proyectos educativos exitosos.
 
 
 ---
@@ -52,7 +54,10 @@ La integración de plataformas tecnológicas y recursos educativos ha revolucion
 
 En respuesta a esta problemática, este documento propone la adopción de plataformas libres, como GNU/Linux y otras soluciones de software abierto, junto con Recursos Educativos Abiertos (REA), que se presentan como alternativas accesibles, seguras y altamente adaptables a las necesidades del entorno educativo. Estas herramientas y materiales reducen significativamente los costes asociados a licencias y adquisiciones, al tiempo que promueven valores fundamentales como la transparencia, la colaboración y el empoderamiento. Al implementarlas, las escuelas pueden personalizar tanto su infraestructura tecnológica como sus contenidos educativos, fomentar el aprendizaje colaborativo y devolver el control a las comunidades educativas, cultivando así la independencia tecnológica y el pensamiento crítico en un mundo digital.
 
+![image](static/Mapa_conceptual_del_software_libre_2.png)
+
 Con un enfoque doble, este paper busca: primero, concienciar a educadores, administradores y responsables de políticas educativas sobre las ventajas éticas, sociales y pedagógicas del software libre y los REA, posicionándolos como opciones sostenibles para construir un modelo educativo más justo, inclusivo y soberano; segundo, ofrecer alternativas prácticas para su implementación, demostrando cómo las escuelas pueden optimizar recursos y formar a estudiantes como creadores activos de tecnología y conocimiento, no solo como consumidores. A través de ejemplos concretos, como el uso de Raspberry Pi y repositorios de REA, se ilustra su viabilidad, analizando además su impacto positivo en la formación estudiantil y los retos de su adopción. Esta propuesta aspira a inspirar un cambio hacia sistemas y recursos educativos que no limiten, sino que fortalezcan a la comunidad educativa, preparándola para los desafíos de una sociedad digital consciente y libre.
+![image](static/valoresSL.png)
 
 <a name="2_introduccion"></a>
 # 2. Introducción
