@@ -1,8 +1,27 @@
-**"La Importancia del Software Libre y los Recursos Educativos Abiertos en la Educación"**
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Software Libre y REA en Educación - Guía Práctica 2025</title>
+	<meta name="description" content="Descubre cómo el software libre y los recursos educativos abiertos transforman la educación con autonomía, ahorro y creatividad.">
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+      <h1>La Importancia del Software Libre y los Recursos Educativos Abiertos: el futuro de la Educación</h1>
+      <p>Transforma tu aula con herramientas abiertas, accesibles y éticas.</p>
+	</header>
+	<main>
+	</main>
+	<footer>
+    	<p>CC BY-NC-SA 4.0 - Jorge Aranda Moro - 2025</p>
+    	<a href="https://github.com/naish21">GitHub</a>
+	</footer>
+</body>
+</html>
 
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ~ 2025 ~ by [Jorge Aranda Moro](mailto:jorge.aranda.moro@gmail.com)
-
-# Indice
+# Índice
 
 1. [Resumen y Propósito](#1_resumen_ejecutivo)
 
@@ -293,6 +312,7 @@ Adoptar el software libre es un acto de responsabilidad: garantiza libertad, seg
 28. Universidad de La Plata. (s.f.). Documento académico sobre software libre. Disponible en: [http://sedici.unlp.edu.ar/bitstream/handle/10915/24549/Documento_completo.pdf?sequence=1](http://sedici.unlp.edu.ar/bitstream/handle/10915/24549/Documento_completo.pdf?sequence=1)
 29. Universitat Oberta de Catalunya. (2007). Software libre en educación. Disponible en: [https://www.scribd.com/document/144226280/Plataformas-abiertas-de-e-learning-Boneu-pdf](https://www.scribd.com/document/144226280/Plataformas-abiertas-de-e-learning-Boneu-pdf)
 30. Wikipedia. (s.f.). Software libre en educación. Disponible en: [https://es.wikipedia.org/wiki/Software_libre_en_educaci%C3%B3n](https://es.wikipedia.org/wiki/Software_libre_en_educaci%C3%B3n)
+31. El uso de Google o Microsoft en colegios o institutos: privacidad y seguridad de los datos de menores. Disponible en [https://maldita.es/malditatecnologia/20201211/google-microsoft-colegios-institutos-privacidad-seguridad-datos-menores/](https://maldita.es/malditatecnologia/20201211/google-microsoft-colegios-institutos-privacidad-seguridad-datos-menores/)
 
 <a name="10_Anexos"></a>
 # 10. Anexos prácticos (wip)
