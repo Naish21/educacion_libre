@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
@@ -16,7 +15,6 @@
 	</main>
 	<footer>
     	<p>CC BY-NC-SA 4.0 - Jorge Aranda Moro - 2025</p>
-    	<a href="https://github.com/naish21">GitHub</a>
 	</footer>
 </body>
 </html>
