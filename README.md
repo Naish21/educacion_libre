@@ -104,6 +104,8 @@ Este documento nace de la urgente necesidad de desafiar el statu quo tecnológic
 
 En la actualidad, las plataformas tecnológicas desempeñan un papel central en la educación, facilitando la gestión del aprendizaje, la comunicación entre docentes y estudiantes, y el acceso a recursos educativos. Sin embargo, el panorama tecnológico en este ámbito está dominado en gran medida por soluciones privativas desarrolladas por gigantes corporativos como Microsoft, Google y Apple. Este predominio plantea desafíos éticos, económicos y pedagógicos que justifican la necesidad de explorar y promover alternativas basadas en software libre.
 
+En línea con la tendencia hacia la adopción de software libre en instituciones públicas, la Unión Europea ha anunciado el desarrollo de EU OS, un sistema operativo basado en Fedora Linux con entorno de escritorio KDE Plasma. Este proyecto busca estandarizar el uso de software libre en administraciones públicas y colegios, promoviendo la independencia tecnológica y reduciendo costes asociados a licencias de software propietario.
+
 <a name="3_1_analisis_de_las_plataformas"></a>
 ## 3.1. Análisis de las plataformas tecnológicas actuales en la educación
 
@@ -134,6 +136,8 @@ En resumen, aunque el software privativo domina el estado actual de las platafor
 # 4. Ventajas del Software Libre y los Recursos Educativos Abiertos en la Educación
 
 El software libre y los Recursos Educativos Abiertos (REA) ofrecen mucho más que soluciones técnicas: representan una oportunidad para repensar la educación desde sus fundamentos. En un mundo donde las barreras económicas, tecnológicas y culturales a menudo limitan el acceso al aprendizaje, estas herramientas proponen un camino hacia la equidad, la creatividad y la autonomía. Al liberar a las instituciones y a los individuos de las restricciones de los sistemas propietarios, se abre la puerta a un modelo educativo que no solo es más accesible, sino también más participativo y preparado para las demandas del presente y el futuro. Las ventajas de este enfoque trascienden lo práctico y se convierten en un compromiso ético con el conocimiento como bien común.
+
+Un ejemplo destacado es el Colegio Juan Pablo II de Parla, donde, a pesar de no utilizar iPads ni permitir móviles en el aula, los alumnos aprenden programación, desarrollan pensamiento computacional y crean sus propias inteligencias artificiales. Este enfoque demuestra que es posible fomentar competencias digitales avanzadas sin depender de tecnologías propietarias, utilizando en su lugar herramientas de software libre que promueven la comprensión profunda y la creación activa.
 
 El software libre trasciende su función como herramienta tecnológica: redefine la educación al cultivar habilidades y valores fundamentales para el crecimiento personal y colectivo. Desde fomentar la colaboración hasta preparar a los estudiantes para un mundo digital, sus beneficios hacen del aprendizaje un proceso más accesible, ético y creativo.
 
@@ -311,8 +315,12 @@ Adoptar el software libre es un acto de responsabilidad: garantiza libertad, seg
 29. Universitat Oberta de Catalunya. (2007). Software libre en educación. Disponible en: [https://www.scribd.com/document/144226280/Plataformas-abiertas-de-e-learning-Boneu-pdf](https://www.scribd.com/document/144226280/Plataformas-abiertas-de-e-learning-Boneu-pdf)
 30. Wikipedia. (s.f.). Software libre en educación. Disponible en: [https://es.wikipedia.org/wiki/Software_libre_en_educaci%C3%B3n](https://es.wikipedia.org/wiki/Software_libre_en_educaci%C3%B3n)
 31. El uso de Google o Microsoft en colegios o institutos: privacidad y seguridad de los datos de menores. Disponible en [https://maldita.es/malditatecnologia/20201211/google-microsoft-colegios-institutos-privacidad-seguridad-datos-menores/](https://maldita.es/malditatecnologia/20201211/google-microsoft-colegios-institutos-privacidad-seguridad-datos-menores/)
+32. La UE creará un Sistema Operativo propio para PC y servidores basado en Linux para dejar Windows y alejarse de EE.UU. Disponible en [https://elchapuzasinformatico.com/2025/03/eu-os-sistema-operativo-linux/](https://elchapuzasinformatico.com/2025/03/eu-os-sistema-operativo-linux/)
+33. Europapress - Un colegio sin iPads ni móviles, pero con alumnos que programan y crean sus propias IA. Disponible en [https://www.europapress.es/comunicados/sociedad-00909/noticia-comunicado-colegio-ipads-moviles-alumnos-programan-crean-propias-ia-20250207124507.html](https://www.europapress.es/comunicados/sociedad-00909/noticia-comunicado-colegio-ipads-moviles-alumnos-programan-crean-propias-ia-20250207124507.html)
 
 <a name="10_Anexos"></a>
 # 10. Anexos prácticos (wip)
 
-[https://www.gnu.org/software/free-software-for-education.es.html](https://www.gnu.org/software/free-software-for-education.es.html)
+- Como propuesta inicial, creo que lo ideal sería empezar aplicando en el aula los materiales y recursos disponibles en la [Raspberry Pi Foundation](https://www.raspberrypi.org/)
+
+- [Listado de software](https://www.gnu.org/software/free-software-for-education.es.html) que se puede utilizar en las aulas
