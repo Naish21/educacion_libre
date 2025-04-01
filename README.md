@@ -14,7 +14,7 @@
 	<main>
 	</main>
 	<footer>
-    	<p>CC BY-NC-SA 4.0 - Jorge Aranda Moro - 2025</p>
+    	<p>CC BY-NC-SA 4.0 - Jorge Aranda Moro - 2025 (última actualización: 1 de abril de 2025)</p>
 	</footer>
 </body>
 </html>
