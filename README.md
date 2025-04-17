@@ -317,6 +317,10 @@ Adoptar el software libre es un acto de responsabilidad: garantiza libertad, seg
 31. El uso de Google o Microsoft en colegios o institutos: privacidad y seguridad de los datos de menores. Disponible en [https://maldita.es/malditatecnologia/20201211/google-microsoft-colegios-institutos-privacidad-seguridad-datos-menores/](https://maldita.es/malditatecnologia/20201211/google-microsoft-colegios-institutos-privacidad-seguridad-datos-menores/)
 32. La UE creará un Sistema Operativo propio para PC y servidores basado en Linux para dejar Windows y alejarse de EE.UU. Disponible en [https://elchapuzasinformatico.com/2025/03/eu-os-sistema-operativo-linux/](https://elchapuzasinformatico.com/2025/03/eu-os-sistema-operativo-linux/)
 33. Europapress - Un colegio sin iPads ni móviles, pero con alumnos que programan y crean sus propias IA. Disponible en [https://www.europapress.es/comunicados/sociedad-00909/noticia-comunicado-colegio-ipads-moviles-alumnos-programan-crean-propias-ia-20250207124507.html](https://www.europapress.es/comunicados/sociedad-00909/noticia-comunicado-colegio-ipads-moviles-alumnos-programan-crean-propias-ia-20250207124507.html)
+34. Campamento digital. Disponible en [https://campamentodigital.org/](https://campamentodigital.org/)
+35. Cibervoluntarios. Disponible en [https://www.cibervoluntarios.org/](https://www.cibervoluntarios.org/)
+36. CODI - Programa de competencias digitales para la infancia. Disponible en [https://www.juventudeinfancia.gob.es/es/Infancia/codi](https://www.juventudeinfancia.gob.es/es/Infancia/codi)
+
 
 <a name="10_Anexos"></a>
 # 10. Anexos prácticos (wip)
